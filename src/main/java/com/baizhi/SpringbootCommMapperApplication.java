@@ -7,10 +7,23 @@ import tk.mybatis.spring.annotation.MapperScan;
 @MapperScan("com.baizhi.mapper")
 @SpringBootApplication
 public class SpringbootCommMapperApplication {
-
     public static void main(String[] args) {
         
-        sout
+       
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         SpringApplication.run(SpringbootCommMapperApplication.class, args);
     }
 
